@@ -13,3 +13,7 @@ th {
 	font-weight: bold;
 	text-aling: center;
 }
+td {
+	padding: 8px;
+	border: 1px solid black;
+}
