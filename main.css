@@ -5,4 +5,11 @@ h1 {
 	font-size: 40px;
 	text-aling: left;
 	color: blue;
+	font-size: 32px;
+	text-aling: center;
+}
+th {
+	backround-color: green;
+	font-weight: bold;
+	text-aling: center;
 }
