@@ -19,3 +19,10 @@ td {
 	padding: 4px;
 	border: 2px dashed gray;
 }
+footer a:hover {
+	color: darkred;
+}
+footer a {
+	text-decoration: none;
+	color: blue;
+}
